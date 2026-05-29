@@ -186,9 +186,9 @@ Major components include:
 - Kottala
 - Velpula
 - Bestavaripalle
-- MC Palle
-- BG Palle
-- RK Palle
+- MC Palle (Mobbuchintalapalle)
+- BG Palle (Bhumaiahgaripalli)
+- RK Palle (Rachakuntapalli)
 - Kanampalle
 
 ---
